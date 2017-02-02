@@ -1,0 +1,25 @@
+{
+  "name": "ThorChat",
+  "version": "1.0.0",
+  "description": "Sample Chat Application made in Node.JS using Socket.IO.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorrafols009/ThorChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorrafols009/ThorChat/issues"
+  },
+  "homepage": "https://github.com/victorrafols009/ThorChat#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "nodemon": "^1.11.0",
+    "socket.io": "^1.7.2"
+  }
+}
